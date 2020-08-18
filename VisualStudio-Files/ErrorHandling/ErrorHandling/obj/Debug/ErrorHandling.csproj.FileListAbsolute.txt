@@ -1,0 +1,6 @@
+E:\UNI\VS.Project\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe.config
+E:\UNI\VS.Project\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+E:\UNI\VS.Project\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+E:\UNI\VS.Project\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+E:\UNI\VS.Project\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
+E:\UNI\VS.Project\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
