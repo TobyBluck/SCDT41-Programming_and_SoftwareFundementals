@@ -1,0 +1,13 @@
+E:\UNI\VS.Project\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\UNI\VS.Project\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\UNI\VS.Project\Bank\Bank\bin\Debug\Bank.exe.config
+E:\UNI\VS.Project\Bank\Bank\bin\Debug\Bank.exe
+E:\UNI\VS.Project\Bank\Bank\bin\Debug\Bank.pdb
+E:\UNI\VS.Project\Bank\Bank\obj\Debug\Bank.exe
+E:\UNI\VS.Project\Bank\Bank\obj\Debug\Bank.pdb
+F:\USB-backup-2412\UNI\VS.Project\Bank\Bank\bin\Debug\Bank.exe.config
+F:\USB-backup-2412\UNI\VS.Project\Bank\Bank\bin\Debug\Bank.exe
+F:\USB-backup-2412\UNI\VS.Project\Bank\Bank\bin\Debug\Bank.pdb
+F:\USB-backup-2412\UNI\VS.Project\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+F:\USB-backup-2412\UNI\VS.Project\Bank\Bank\obj\Debug\Bank.exe
+F:\USB-backup-2412\UNI\VS.Project\Bank\Bank\obj\Debug\Bank.pdb
