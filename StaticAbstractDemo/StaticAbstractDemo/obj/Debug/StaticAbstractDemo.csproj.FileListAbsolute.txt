@@ -1,0 +1,7 @@
+E:\UNIwork\VB\StaticAbstractDemo\StaticAbstractDemo\obj\Debug\StaticAbstractDemo.csprojResolveAssemblyReference.cache
+E:\UNIwork\VB\StaticAbstractDemo\StaticAbstractDemo\obj\Debug\StaticAbstractDemo.csproj.CoreCompileInputs.cache
+E:\UNIwork\VB\StaticAbstractDemo\StaticAbstractDemo\bin\Debug\StaticAbstractDemo.exe.config
+E:\UNIwork\VB\StaticAbstractDemo\StaticAbstractDemo\bin\Debug\StaticAbstractDemo.exe
+E:\UNIwork\VB\StaticAbstractDemo\StaticAbstractDemo\bin\Debug\StaticAbstractDemo.pdb
+E:\UNIwork\VB\StaticAbstractDemo\StaticAbstractDemo\obj\Debug\StaticAbstractDemo.exe
+E:\UNIwork\VB\StaticAbstractDemo\StaticAbstractDemo\obj\Debug\StaticAbstractDemo.pdb
