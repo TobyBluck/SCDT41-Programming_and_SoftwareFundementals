@@ -1,0 +1,2 @@
+E:\UNI\VS.Project\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+E:\UNI\VS.Project\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
