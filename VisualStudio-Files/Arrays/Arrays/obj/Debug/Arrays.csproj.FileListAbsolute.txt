@@ -1,0 +1,7 @@
+E:\UNI\VS.Project\Arrays\Arrays\bin\Debug\Arrays.exe.config
+E:\UNI\VS.Project\Arrays\Arrays\bin\Debug\Arrays.exe
+E:\UNI\VS.Project\Arrays\Arrays\bin\Debug\Arrays.pdb
+E:\UNI\VS.Project\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+E:\UNI\VS.Project\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\UNI\VS.Project\Arrays\Arrays\obj\Debug\Arrays.exe
+E:\UNI\VS.Project\Arrays\Arrays\obj\Debug\Arrays.pdb
