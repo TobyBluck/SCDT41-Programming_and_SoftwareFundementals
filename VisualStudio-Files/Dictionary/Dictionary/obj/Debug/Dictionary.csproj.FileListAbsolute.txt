@@ -1,0 +1,7 @@
+E:\UNI\VS.Project\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\UNI\VS.Project\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\UNI\VS.Project\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\UNI\VS.Project\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+E:\UNI\VS.Project\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+E:\UNI\VS.Project\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\UNI\VS.Project\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
