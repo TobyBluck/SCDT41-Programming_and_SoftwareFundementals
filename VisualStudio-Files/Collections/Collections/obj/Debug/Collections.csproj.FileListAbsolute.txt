@@ -1,0 +1,6 @@
+E:\UNI\VS.Project\Collections\Collections\bin\Debug\Collections.exe.config
+E:\UNI\VS.Project\Collections\Collections\bin\Debug\Collections.exe
+E:\UNI\VS.Project\Collections\Collections\bin\Debug\Collections.pdb
+E:\UNI\VS.Project\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+E:\UNI\VS.Project\Collections\Collections\obj\Debug\Collections.exe
+E:\UNI\VS.Project\Collections\Collections\obj\Debug\Collections.pdb
