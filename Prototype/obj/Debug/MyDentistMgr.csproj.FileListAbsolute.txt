@@ -1,0 +1,12 @@
+C:\Users\Ross\Documents\MyDentistMgr\MyDentistMgr\MyDentistMgr\bin\Debug\MyDentistMgr.exe.config
+C:\Users\Ross\Documents\MyDentistMgr\MyDentistMgr\MyDentistMgr\bin\Debug\MyDentistMgr.exe
+C:\Users\Ross\Documents\MyDentistMgr\MyDentistMgr\MyDentistMgr\bin\Debug\MyDentistMgr.pdb
+C:\Users\Ross\Documents\MyDentistMgr\MyDentistMgr\MyDentistMgr\obj\Debug\MyDentistMgr.exe
+C:\Users\Ross\Documents\MyDentistMgr\MyDentistMgr\MyDentistMgr\obj\Debug\MyDentistMgr.pdb
+C:\Users\Ross\Documents\MyDentistMgr\MyDentistMgr\MyDentistMgr\obj\Debug\MyDentistMgr.csprojResolveAssemblyReference.cache
+C:\Users\tobyb\Desktop\MyDentistMgrNoExtra\MyDentistMgr\MyDentistMgr\bin\Debug\MyDentistMgr.exe.config
+C:\Users\tobyb\Desktop\MyDentistMgrNoExtra\MyDentistMgr\MyDentistMgr\bin\Debug\MyDentistMgr.exe
+C:\Users\tobyb\Desktop\MyDentistMgrNoExtra\MyDentistMgr\MyDentistMgr\bin\Debug\MyDentistMgr.pdb
+C:\Users\tobyb\Desktop\MyDentistMgrNoExtra\MyDentistMgr\MyDentistMgr\obj\Debug\MyDentistMgr.csprojAssemblyReference.cache
+C:\Users\tobyb\Desktop\MyDentistMgrNoExtra\MyDentistMgr\MyDentistMgr\obj\Debug\MyDentistMgr.exe
+C:\Users\tobyb\Desktop\MyDentistMgrNoExtra\MyDentistMgr\MyDentistMgr\obj\Debug\MyDentistMgr.pdb
